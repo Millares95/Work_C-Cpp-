@@ -1,4 +1,4 @@
-/* Additional program */
+/*Additional program */
 #include <stdio.h>
 main()
 {
